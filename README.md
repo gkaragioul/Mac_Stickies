@@ -2,7 +2,7 @@
   <img src="Assets/IconGen/AppIcon1024.png" alt="Desktop Notes app icon" width="180">
 </p>
 
-<h1 align="center">Desktop Notes for macOS</h1>
+<h1 align="center">Mac Stickies</h1>
 
 <p align="center">
   <strong>Lightweight menu bar sticky notes for your Mac desktop.</strong><br>
