@@ -16,7 +16,7 @@ struct StickyNotesApp: App {
     }
 
     var body: some Scene {
-        MenuBarExtra("Stickies", systemImage: "note.text") {
+        MenuBarExtra("Mac Stickies", systemImage: "note.text") {
             MenuBarView()
                 .environmentObject(store)
                 .environmentObject(windowManager)

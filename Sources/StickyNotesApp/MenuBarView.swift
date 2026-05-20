@@ -83,7 +83,7 @@ struct MenuBarView: View {
 
         Divider()
 
-        Button("About Desktop Notes") {
+        Button("About Mac Stickies") {
             showAbout()
         }
         .disabled(isBusy)
@@ -181,15 +181,15 @@ struct MenuBarView: View {
         let credits = """
         MIT License
 
-        Desktop Notes for macOS is open source under the MIT License.
+        Mac Stickies is open source under the MIT License.
 
         Notes are stored locally in ~/Library/Application Support/StickyNotesApp/notes.json. The app has no telemetry, network sync, or third-party runtime dependencies.
         """
 
         NSApplication.shared.orderFrontStandardAboutPanel(options: [
-            .applicationName: "Desktop Notes for macOS",
+            .applicationName: "Mac Stickies",
             .applicationVersion: "1.0",
-            .copyright: "Copyright (c) 2026 georgekgr12",
+            NSApplication.AboutPanelOptionKey(rawValue: "Copyright"): "Copyright (c) 2026 georgekgr12",
             .credits: NSAttributedString(string: credits)
         ])
     }
