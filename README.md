@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/IconGen/AppIcon1024.png" alt="Desktop Notes app icon" width="180">
+  <img src="Assets/IconGen/AppIcon1024.png" alt="Mac Stickies app icon" width="180">
 </p>
 
 <h1 align="center">Mac Stickies</h1>
@@ -11,9 +11,14 @@
 
 <p align="center">
   <a href="#features">Features</a> &bull;
+  <a href="https://github.com/georgekgr12/Mac_Stickies/releases/latest/download/MacStickies.zip">Download</a> &bull;
   <a href="#building-and-running">Build</a> &bull;
   <a href="#how-it-works">Usage</a> &bull;
   <a href="#license">License</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/georgekgr12/Mac_Stickies/releases/latest/download/MacStickies.zip"><strong>Download Mac Stickies for macOS</strong></a>
 </p>
 
 ---
@@ -68,7 +73,7 @@ If you wrap a release build manually, include the MIT license next to the app re
 ```bash
 swift build -c release
 
-APP="StickyNotesApp.app"
+APP="Mac Stickies.app"
 mkdir -p "$APP/Contents/MacOS"
 mkdir -p "$APP/Contents/Resources"
 
@@ -105,6 +110,6 @@ Notes are saved locally to `~/Library/Application Support/StickyNotesApp/notes.j
 
 ## License
 
-Desktop Notes for macOS is released under the [MIT License](LICENSE).
+Mac Stickies is released under the [MIT License](LICENSE).
 
 Copyright (c) 2026 georgekgr12.
