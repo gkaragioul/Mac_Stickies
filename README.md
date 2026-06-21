@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="#features">Features</a> &bull;
-  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest/download/MacStickies.zip">Download</a> &bull;
+  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest">Download</a> &bull;
   <a href="#building-and-running">Build</a> &bull;
   <a href="#how-it-works">Usage</a> &bull;
   <a href="#license">License</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest/download/MacStickies.zip"><strong>Download Mac Stickies for macOS</strong></a>
+  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest"><strong>Download Mac Stickies for macOS</strong></a>
 </p>
 
 ---
