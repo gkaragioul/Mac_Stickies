@@ -189,7 +189,7 @@ struct MenuBarView: View {
         NSApplication.shared.orderFrontStandardAboutPanel(options: [
             .applicationName: "Mac Stickies",
             .applicationVersion: "1.0",
-            NSApplication.AboutPanelOptionKey(rawValue: "Copyright"): "Copyright (c) 2026 georgekgr12",
+            NSApplication.AboutPanelOptionKey(rawValue: "Copyright"): "Copyright (c) 2026 George Karagioules",
             .credits: NSAttributedString(string: credits)
         ])
     }
