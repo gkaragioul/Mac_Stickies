@@ -112,4 +112,4 @@ Notes are saved locally to `~/Library/Application Support/StickyNotesApp/notes.j
 
 Mac Stickies is released under the [MIT License](LICENSE).
 
-Copyright (c) 2026 georgekgr12.
+Copyright (c) 2026 George Karagioules.
