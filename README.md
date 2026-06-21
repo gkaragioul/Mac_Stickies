@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="#features">Features</a> &bull;
-  <a href="https://github.com/georgekgr12/Mac_Stickies/releases/latest/download/MacStickies.zip">Download</a> &bull;
+  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest">Download</a> &bull;
   <a href="#building-and-running">Build</a> &bull;
   <a href="#how-it-works">Usage</a> &bull;
   <a href="#license">License</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/georgekgr12/Mac_Stickies/releases/latest/download/MacStickies.zip"><strong>Download Mac Stickies for macOS</strong></a>
+  <a href="https://github.com/gkaragioul/Mac_Stickies/releases/latest"><strong>Download Mac Stickies for macOS</strong></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ A lightweight menu bar sticky notes app for macOS, built with SwiftUI and AppKit
 ### Option 1: Xcode
 
 ```bash
-git clone https://github.com/georgekgr12/Mac_Stickies.git
+git clone https://github.com/gkaragioul/Mac_Stickies.git
 cd OSX_Desktop_Sticky_Notes
 ```
 
@@ -59,7 +59,7 @@ Open `Package.swift` in Xcode, select the **StickyNotesApp** scheme, then run wi
 ### Option 2: Terminal
 
 ```bash
-git clone https://github.com/georgekgr12/Mac_Stickies.git
+git clone https://github.com/gkaragioul/Mac_Stickies.git
 cd OSX_Desktop_Sticky_Notes
 swift run StickyNotesApp
 ```
