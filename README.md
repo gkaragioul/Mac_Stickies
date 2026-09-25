@@ -51,7 +51,7 @@ A lightweight menu bar sticky notes app for macOS, built with SwiftUI and AppKit
 
 ```bash
 git clone https://github.com/gkaragioul/Mac_Stickies.git
-cd OSX_Desktop_Sticky_Notes
+cd Mac_Stickies
 ```
 
 Open `Package.swift` in Xcode, select the **StickyNotesApp** scheme, then run with Cmd+R. The app appears as a note icon in your menu bar.
@@ -60,7 +60,7 @@ Open `Package.swift` in Xcode, select the **StickyNotesApp** scheme, then run wi
 
 ```bash
 git clone https://github.com/gkaragioul/Mac_Stickies.git
-cd OSX_Desktop_Sticky_Notes
+cd Mac_Stickies
 swift run StickyNotesApp
 ```
 
