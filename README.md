@@ -108,6 +108,10 @@ Notes are saved locally to `~/Library/Application Support/StickyNotesApp/notes.j
 | `StickyNoteView.swift` | SwiftUI note editor view |
 | `Color+Hex.swift` | Hex color parsing utilities |
 
+## Disclaimer
+
+Mac Stickies is provided as is, without warranty of any kind, under the [MIT License](LICENSE). Use it at your own risk; you are responsible for how you use it. Deleting a note is immediate and cannot be undone, and importing a JSON backup replaces all current notes, so export a backup first and don't keep the only copy of anything important in it.
+
 ## License
 
 Mac Stickies is released under the [MIT License](LICENSE).
