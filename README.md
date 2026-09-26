@@ -23,7 +23,7 @@
 
 ---
 
-> **This project is abandoned and no longer maintained.** The app is fully functional as-is, but no further updates, bug fixes, or feature additions will be made. Feel free to fork it and make it your own under the MIT License.
+> **This repository is archived and read-only.** Mac Stickies is no longer maintained: no further updates, bug fixes, or feature additions will be made, and new issues and pull requests are not accepted. The app is fully functional as-is; feel free to fork it and make it your own under the MIT License.
 
 A lightweight menu bar sticky notes app for macOS, built with SwiftUI and AppKit. No external dependencies.
 
